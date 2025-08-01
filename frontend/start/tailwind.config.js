@@ -46,6 +46,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["var(--font-vazir)", ...fontFamily.sans],
+        // adding font
       },
       container: {
         center: true,
